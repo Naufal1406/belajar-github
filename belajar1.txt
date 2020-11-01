@@ -1,0 +1,4 @@
+belajar github untuk pemula 
+1. memahami apa itu github
+2. apa aja yang harus dipelajari
+3. setindaknya paham konsep dasar dari github
