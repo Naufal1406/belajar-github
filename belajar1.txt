@@ -1,3 +1,5 @@
 belajar github untuk pemula 
 1. apa aja yang harus dipelajari
 2. setindaknya paham konsep dasar dari github
+3. bisa membuat repository
+4. bisa menambahkan file baru
