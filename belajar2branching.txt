@@ -1,0 +1,3 @@
+rencana belajar branching
+- paham gimana konsep branching
+- cara membuat branching
