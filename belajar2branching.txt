@@ -1,0 +1,5 @@
+rencana belajar branching
+- paham gimana konsep branching
+- cara membuat branching
+- melakukan checkout
+- melihat efek dari branching (compare and pull)
