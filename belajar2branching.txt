@@ -3,3 +3,5 @@ rencana belajar branching
 - cara membuat branching
 - melakukan checkout
 - melihat efek dari branching (compare and pull)
+- melakukan merge pada main commit
+- menghapus branch yg sudah dibuat
